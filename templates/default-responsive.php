@@ -1,0 +1,1 @@
+<div id="map-container" class="col-md-12" class="default-gmaps-container"></div>
